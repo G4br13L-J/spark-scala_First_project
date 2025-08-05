@@ -2,6 +2,10 @@
 
 This project demonstrates foundational data processing techniques using **Apache Spark with Scala**. It's based on a hands-on walkthrough designed to explore Spark SQL capabilities including DataFrame operations, transformations, aggregations, and window functions, using real stock market data (`AAPL.csv`).
 
+## 🎥 Reference
+
+This project is based on the [Apache Spark & Scala Course](https://www.youtube.com/playlist?list=PLrnPJCHvNZuDQ-jWPw13-wY2J57Z6epxk) by **Philipp Brunenberg** on YouTube, which covers the complete content implemented here.
+
 ---
 
 ## 📁 Project Structure
@@ -85,8 +89,3 @@ By completing this project, I learned about:
 - How Spark builds and optimizes execution plans  
 - How to use the Structured API (DataFrames, SQL, expressions)  
 - Core concepts of lazy evaluation, AST, and window functions  
-
-## 🎥 Reference
-
-This project is based on the [Apache Spark Tutorial Series](https://www.youtube.com/playlist?list=PLrnPJCHvNZuDQ-jWPw13-wY2J57Z6epxk) by **Philipp Brunenberg** on YouTube, which covers the complete content implemented here.
-
