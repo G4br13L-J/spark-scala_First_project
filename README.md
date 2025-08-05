@@ -83,7 +83,7 @@ This project is based on the [Apache Spark & Scala Course](https://www.youtube.c
 
 ## 🧠 Learning Objectives
 
-By completing this project, I learned about:
+By completing this project, I learned:
 
 - How to manipulate tabular data with Spark  
 - How Spark builds and optimizes execution plans  
