@@ -1,6 +1,6 @@
 # 📊 Spark Video Course Project
 
-This project demonstrates foundational data processing techniques using **Apache Spark with Scala** in *IntelliJ IDE*. It's based on a hands-on walkthrough designed to explore Spark SQL capabilities including DataFrame operations, transformations, aggregations, and window functions, using real stock market data (`AAPL.csv`).
+This project demonstrates foundational data processing techniques using **Apache Spark with Scala** in **IntelliJ IDE**. It's based on a hands-on walkthrough designed to explore Spark SQL capabilities including DataFrame operations, transformations, aggregations, and window functions, using real stock market data (`AAPL.csv`).
 
 ## 🎥 Reference
 
